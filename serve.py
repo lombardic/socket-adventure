@@ -2,7 +2,7 @@
 serve.py
 
 Instantiates a socket-adventure `Server` and serves it on a specified
-port.
+:port.
 
 You should not need to make any changes in this file.
 """
